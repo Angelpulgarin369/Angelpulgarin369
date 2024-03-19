@@ -21,7 +21,7 @@ Node.js 🚀
 React.js ⚛️
 Express.js 🛣️
 PostgreSQL 🐘
-Secuela 🗃️
+Sequelize 🗃️
 Git 📂
 Además, tengo experiencia en HTML y CSS, y me encanta utilizar bibliotecas como Material-UI para crear interfaces modernas y atractivas. 🎨
 
