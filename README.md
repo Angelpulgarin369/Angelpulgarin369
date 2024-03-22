@@ -2,7 +2,7 @@
 
 ¡Bienvenidos a mi espacio en GitHub! 🚀
 
-Soy Miguel Angel Rodríguez, un entusiasta desarrollador Full Stack con sede en Argentina, apasionado por explorar y crear soluciones tecnológicas innovadoras. 💻
+Soy Miguel Angel Rodríguez, un entusiasta desarrollador Full Stack con sede en Colombia, apasionado por explorar y crear soluciones tecnológicas innovadoras. 💻
 
 Desde que descubrí mi pasión por la programación, he estado inmerso en el mundo del desarrollo web, explorando las infinitas posibilidades que ofrece este campo. Mi viaje comenzó con la curiosidad de entender cómo funcionan las cosas en la web y ha evolucionado hasta convertirse en mi vocación. 🌟
 
